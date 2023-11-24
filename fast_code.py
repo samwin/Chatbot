@@ -9,7 +9,7 @@ import chromadb
 import os
 from pydantic import BaseModel
 import re
-os.environ['OPENAI_API_KEY'] = 'YOUR API KEY'
+os.environ['OPENAI_API_KEY'] = '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'
 
 
 class Query(BaseModel):
